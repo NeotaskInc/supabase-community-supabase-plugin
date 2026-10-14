@@ -22,7 +22,7 @@ Shared across all vendors:
 | Cursor         | ✓         |
 | Codex          | ✓         |
 | GitHub Copilot | ✓         |
-| Gemini         | ✓         |
+| Gemini CLI         | ✓         |
 | VS Code (Open Plugin) | ✓  |
 | Kimi Code         | ✓         |
 | Grok Build     | ✓         |
