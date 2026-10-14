@@ -82,7 +82,7 @@
         },
         {
           "type": "json",
-          "path": "agents/antigravity/mcp_config.json",
+          "path": "mcp_config.json",
           "jsonpath": "$.mcpServers.mcp.headers[\"X-Source-Version\"]"
         },
         {

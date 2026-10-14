@@ -27,7 +27,7 @@ jobs:
           tar -czvf "supabase-plugin.tar.gz" --dereference \
             .claude-plugin/ .cursor-plugin/ .codex-plugin/ .kimi-plugin/ \
             .grok-plugin/ .antigravity-plugin/ .github/plugin/ .plugin/ agents/ \
-            gemini-extension.json SUPABASE.md \
+            gemini-extension.json mcp_config.json SUPABASE.md \
             skills/ assets/ || exit 1
 
       - name: Upload release assets
